@@ -141,7 +141,7 @@ Helping businesses grow through strategic marketing, compelling content, AI-powe
 
 <p align="left">
   <a href="https://www.linkedin.com/in/haseebabdulrauf/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:iamhaseebabdulrauf@gmail.com">
