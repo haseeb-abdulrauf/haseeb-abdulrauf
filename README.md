@@ -121,38 +121,6 @@ Helping businesses grow through strategic marketing, compelling content, AI-powe
 
 ---
 
-# 📂 Featured Projects
-
-## 🏥 MIH Hospital
-
-- Developed complete social media marketing strategies
-- Designed healthcare marketing creatives
-- Built monthly content calendars
-- Optimized Google Business Profile (GBP)
-- Created awareness campaigns
-- Strengthened the hospital's digital presence
-
----
-
-## 🦴 Nadeem Physio Store
-
-- Managed social media marketing
-- Designed promotional creatives
-- Increased local brand visibility
-- Planned engaging marketing campaigns
-- Improved customer engagement
-
----
-
-## 🛒 Kodimy Ecommerce
-
-- Managed Shopify store operations
-- Listed products across Shopify, TikTok Shop, WordPress, eBay, and Daraz
-- Designed product listing creatives in Canva
-- Optimized listings for improved visibility
-
----
-
 # 🏅 Certifications
 
 ### Professional Certifications
@@ -166,34 +134,6 @@ Helping businesses grow through strategic marketing, compelling content, AI-powe
 - Content Marketing
 - Social Media Marketing
 - Digital Advertising
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Meta Advertising
-- AI Marketing Automation
-- Brand Strategy
-- Marketing Analytics
-- Advanced Local SEO
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=haseeb-abdulrauf&show_icons=true&theme=github_dark"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-abdulrauf&layout=compact&theme=github_dark"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=haseeb-abdulrauf&theme=github-dark"/>
-
-</p>
 
 ---
 
