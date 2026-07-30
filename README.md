@@ -139,11 +139,12 @@ Helping businesses grow through strategic marketing, compelling content, AI-powe
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/haseebabdulrauf/">linkedin.com/in/haseebabdulrauf</a>
-- 📧 Email: <a href="mailto:iamhaseebabdulrauf@gmail.com">iamhaseebabdulrauf@gmail.com</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/haseebabdulrauf/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+  </a>
 
----
-
-<h3 align="center">
-⭐ Turning ideas into impactful marketing campaigns through creativity, strategy, and AI.
-</h3>
+  <a href="mailto:iamhaseebabdulrauf@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
+  </a>
+</p>
